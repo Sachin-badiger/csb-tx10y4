@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sachin-badiger.github.io/csb-tx10y4/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sachin-badiger.github.io/csb-tx10y4/static/js/main.1c98383d.chunk.js",
+    "main.js.map": "https://sachin-badiger.github.io/csb-tx10y4/static/js/main.1c98383d.chunk.js.map",
+    "runtime-main.js": "https://sachin-badiger.github.io/csb-tx10y4/static/js/runtime-main.666e0985.js",
+    "runtime-main.js.map": "https://sachin-badiger.github.io/csb-tx10y4/static/js/runtime-main.666e0985.js.map",
+    "static/js/2.b4b1b143.chunk.js": "https://sachin-badiger.github.io/csb-tx10y4/static/js/2.b4b1b143.chunk.js",
+    "static/js/2.b4b1b143.chunk.js.map": "https://sachin-badiger.github.io/csb-tx10y4/static/js/2.b4b1b143.chunk.js.map",
+    "index.html": "https://sachin-badiger.github.io/csb-tx10y4/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sachin-badiger.github.io/csb-tx10y4/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b4b1b143.chunk.js.LICENSE.txt": "https://sachin-badiger.github.io/csb-tx10y4/static/js/2.b4b1b143.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.666e0985.js",
+    "static/js/2.b4b1b143.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1c98383d.chunk.js"
+  ]
+}
